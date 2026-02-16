@@ -70,20 +70,6 @@ Este projeto tem como objetivo ensinar conceitos fundamentais do desenvolvimento
 
 ---
 
-🔮 Melhorias Futuras
-
-Modo jogador vs IA
-
-Sistema de menu inicial
-
-Sons e efeitos visuais
-
-Ajuste de dificuldade
-
-Animações e efeitos gráficos
-
----
-
 👤 Autor
 
 Gabriel
