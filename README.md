@@ -70,12 +70,6 @@ Este projeto tem como objetivo ensinar conceitos fundamentais do desenvolvimento
 
 ---
 
-👤 Autor
-
-Gabriel
-
----
-
 📜 Licença
 
 Projeto desenvolvido para fins educacionais.
